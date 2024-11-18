@@ -4,6 +4,11 @@
 <h3 align="center">💻 Favorite Languages 🚀</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmon99&layout=compact&size_weight=0&count_weight=1"/>
+  <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=C++&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/c#-20232a.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-20232a.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dart-20232a.svg?style=for-the-badge" />
 </div>
