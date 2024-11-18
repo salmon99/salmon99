@@ -9,5 +9,5 @@
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
   <img src="https://img.shields.io/badge/SQL-20232a.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dart-20232a.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=0175C2" />
 </div>
